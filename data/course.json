@@ -1,0 +1,30 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Science",
+      "Biology",
+      "Computation and Systems Biology"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "69361722-bcca-608b-83da-ca882232f13b"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Systems Biology",
+  "course_description": "This course introduces the mathematical modeling techniques needed to address key questions in modern biology. An overview of modeling techniques in molecular biology and genetics, cell biology and developmental biology is covered. Key experiments that validate mathematical models are also discussed, as well as molecular, cellular, and developmental systems biology, bacterial chemotaxis, genetic oscillators, control theory and genetic networks, and gradient sensing systems. Additional specific topics include: constructing and modeling of genetic networks, lambda phage as a genetic switch, synthetic genetic switches, circadian rhythms, reaction diffusion equations, local activation and global inhibition models, center finding networks, general pattern formation models, modeling cell-cell communication, quorum sensing, and finally, models for Drosophila development.\n",
+  "department_numbers": [
+    "8",
+    "7",
+    "9"
+  ],
+  "extra_course_numbers": "7.81J,9.531J",
+  "primary_course_number": "8.591J",
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Problem Sets"
+  ],
+  "title": "Course Metadata"
+}
